@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Prints a string indefinitely and catches some signals
+# Prints string indefinitely and catches signals
 clean_up_action='rm /var/run/myscript.pid; exit $?'
 
 echo $$ > "/var/run/myscript.pid"
