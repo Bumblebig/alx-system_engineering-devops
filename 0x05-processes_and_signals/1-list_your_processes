@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script that displays a list of running processes in oriented format
+
+ps -auxf
