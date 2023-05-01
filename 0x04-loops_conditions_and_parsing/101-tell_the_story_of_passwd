@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Prints a story about the contents of the /etc/passwd file
+# Prints story about contents of /etc/passwd file
 file_name="/etc/passwd"
 i=0
 lines=0
